@@ -2,3 +2,4 @@ rootProject.name = "CustomMath"
 include ':app'
 include ':myUtils'
 include ':mylibrary'
+include ':myMath'
